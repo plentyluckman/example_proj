@@ -1,2 +1,3 @@
-# new_proj
-for_practice
+# This is an empty project for practice
+## Hello, World!!
+### Python
