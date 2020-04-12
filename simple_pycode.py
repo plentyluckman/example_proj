@@ -7,4 +7,11 @@ def fanny(n1,n2):
 
     obvious = n1+n2
 
-    return obvious**3
+    return obvious**3 + jeck(max(n1, n2))
+
+
+def jeck(m):
+
+    x = int(m)
+
+    return max(x, 0)
