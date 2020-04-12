@@ -12,6 +12,6 @@ def fanny(n1,n2):
 
 def jeck(m):
 
-    x = int(m)
+    x = int(m) #make sure it's an integer
 
     return max(x, 0)
